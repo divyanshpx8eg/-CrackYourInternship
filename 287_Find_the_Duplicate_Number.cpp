@@ -1,5 +1,9 @@
 //287. Find the Duplicate Number
 
+#include <iostream>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
